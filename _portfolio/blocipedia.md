@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Built a production quality SaaS app that allows users to create their own wikis.
+thumbnail-path: "img/blocipedia_home_image.png"
+short-description: Built a production quality SaaS app that allows users to create their own wikis.  <div><img src="img/github_icon.png" alt="HTML5 Icon" style="vertical-align:middle;"> <a href="https://github.com/FrozenMeatloaf/blocipedia">github/blocipedia</a></div>
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocipedia_index.png)
 
 ## Explanation
 
