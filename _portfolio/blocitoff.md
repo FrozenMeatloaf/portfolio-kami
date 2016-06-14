@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+thumbnail-path: "img/blocitoff_home.png"
+short-description: A self-destructing to-do list application.  <div><img src="img/github_icon.png" alt="HTML5 Icon" style="vertical-align:middle;"> <a href="https://github.com/FrozenMeatloaf/blocitoff">github/blocitoff</a></div>
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/img/blocitoff_index.png)
 
 ## Explanation
 
