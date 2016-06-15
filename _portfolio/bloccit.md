@@ -18,7 +18,7 @@ short-description: Welcome to my first Rails Application.  I began this project 
 
 ## Problem
 
-Well, to be honest, the first problem I encountered was not having a clue what I was doing.  Outside of having basic Java and web design knowledge already, I really did not know where to begin.  What is CRUD,  how do I generate rails commands, why am I getting this error or the infamous...**WHY ISN'T THIS WORKING!?** were among many battles/problems I faced.  My biggest problem was pondering how to tackle such issues in the development world.  However, I quickly learned how to tackle each of these by utilizing many different valuable resources along the way.
+Well, to be honest, I was challenged by multiple road-blocks creating <span class="title-color">Bloccit</span>.  Outside of having basic Java and web design knowledge already, I really did not know where to begin.  What is CRUD,  how do I generate rails commands, why am I getting this error or the infamous...**WHY ISN'T THIS WORKING!?** were among many battles I faced.  My biggest problem was pondering how to tackle such issues in the development world.  However, I quickly learned how to tackle each of these by utilizing many different valuable resources along the way.
 
 ## Solution
 
