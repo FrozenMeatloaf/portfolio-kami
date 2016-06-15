@@ -9,7 +9,8 @@ short-description: Welcome to my first Rails Application.  I began this project 
 ![]({{ site.baseurl }}/img/bloccit_logo.png)
 
 {:.center}
-![]({{ site.baseurl }}/img/github_icon.png) <a href="https://github.com/FrozenMeatloaf/bloccit style=center">github/bloccit</a>
+<span><img src="../portfolio-kami/img/github_icon.png" alt="HTML5 Icon" style="vertical-align:middle;"> <a href="https://github.com/FrozenMeatloaf/bloccit">github/bloccit</a>
+</span>
 
 
 ## Explanation
@@ -20,18 +21,56 @@ short-description: Welcome to my first Rails Application.  I began this project 
 
 Well, to be honest, I was challenged by multiple road-blocks creating <span class="title-color">Bloccit</span>.  Outside of having basic Java and web design knowledge already, I really did not know where to begin.  What is CRUD,  how do I generate rails commands, why am I getting this error or the infamous...**WHY ISN'T THIS WORKING!?** were among many battles I faced.  My biggest problem was pondering how to tackle such issues in the development world.  However, I quickly learned how to tackle each of these by utilizing many different valuable resources along the way.
 
-## Solution
+## Solution(s)
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+{:.center}
+<span class="sub-title">Google</span>
+
+May appear as an obvious "go-to," but ask any developer and they'll tell you Google is a valuable resource.  A better understanding about how to ask my question was a big solution when utilizing any search engine.
+
+{:.center}
+<span class="sub-title">Reading, reading, and more...reading</span>
+
+I naturally have a thirst for knowledge, especially regarding things I enjoy.  As I began to understand the basics, I still was left with many questions unanswered or curiosities unfulfilled by Bloc's program.  I found answers by reading through countless sources over the web or by purchasing books like "_Eloquent Ruby_ and _Extreme Programming Explained_."
+
+{:.center}
+<span class="sub-title">It does not hurt to ask for help</span>
+
+As a beginner, I found myself stuck on many challenges.  After spending hours attempting to solve my own problems, I decided to reach out to mentors and/or StackOverflow.com.
+
+{:.center}
+<span class="sub-title">Starting to think like a developer</span>
+
+Learning at the speed I was created a natural feeling of being overwhelmed.  However, I soon realized I was overthinking how things were coded instead of how things worked.  Things became easier once I acknowledged it was about remembering the principles and locating the solution from past projects or solutions as seen above.
 
 ## Results
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Completing <span class="title-color">Bloccit</span> lead to many successful results that I continue applying in future applications.
 
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+**Comfortable working knowledge of the following:**
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+* Git commands
+* Github (_creating repositories, pushing, pulling, commiting, forking, etc_)
+* Heroku
+* Rails commands
+* Creating a Ruby on Rails Application
+* CRUD/RESTful practices
+* TDD
+* Ruby
+* HTML/CSS (_Bootstrap_)
+
+**More positive results:**
+
+* What to generally expect when working or viewing a rails application
+* How to and where to properly ask programming questions
+* Productively work among a team or teammate
+* Proactively networked among other "railers" (_eg_. joined RoR meetups in Seattle, WA)
+
+
+
 
 ## Conclusion
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Like learning any new thing, completing <span class="title-color">Bloccit</span> via <span class="bloc-color">Bloc.io</span> taught me vidal programming lessons.  Producing a basic Rails application is easy and fast!  I am now able to not only write code, but read others and apply theirs if needed.  I successfully can ask specific questions clearly and find answers to continue production in a timely manner.  With all the knowledge I acquired by finishing <span class="title-color">Bloccit</span>, I am now ready to learn more by creating others.
+
+http://127.0.0.1:4000/dustinsportfolio/portfolio/blocipedia/ Next Project
