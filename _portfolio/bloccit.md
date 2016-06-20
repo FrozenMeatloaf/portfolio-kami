@@ -15,7 +15,7 @@ short-description: Welcome to my first Rails Application.  I began this project 
 
 ## Explanation
 
-<span class="title-color">Bloccit</span> was first when it came to my <span class="bloc-color">Bloc.io</span> curriculum.  The project consisted of many required check-marks to be passed, all of which taught me a new lesson, and all determined by a mentor if fully understood before their completion.  Each check-mark not only lead me to finishing this (my first) project, but provided me the resources and "know-hows" to complete my own applications in the future.
+<span class="title-color">Bloccit</span> was first when it came to my <span class="bloc-color">Bloc.io</span> curriculum.  The project consisted of many required check-marks to be passed, all of which taught me a new lesson, and all determined by a mentor if fully understood before their completion.  Each check-mark not only lead me to finishing this (my first) project, but provided me the resources and "know-hows" to complete any application in the future.
 
 ## Problem
 
@@ -41,11 +41,11 @@ As a beginner, I found myself stuck on many challenges.  After spending hours at
 {:.center}
 <span class="sub-title">Starting to think like a developer</span>
 
-Learning at the speed I was created a natural feeling of being overwhelmed.  However, I soon realized I was overthinking how things were coded instead of how things worked.  Things became easier once I acknowledged it was about remembering the principles and locating the solution from past projects or solutions as seen above.
+Naturally feeling overwhelmed was an issue because of how fast I was learning things.  However, I soon realized I was overthinking how things were coded instead of how things worked.  Things became easier once I acknowledged it was about remembering principles and basic fundamentals.
 
 ## Results
 
-Completing <span class="title-color">Bloccit</span> lead to many successful results that I continue applying in future applications.
+Completing <span class="title-color">Bloccit</span> subsequently produced successful results that I forever will apply to future applications.
 
 **Comfortable working knowledge of the following:**
 
@@ -54,6 +54,7 @@ Completing <span class="title-color">Bloccit</span> lead to many successful resu
 * Heroku
 * Rails commands
 * Creating a Ruby on Rails Application
+* MVC
 * CRUD/RESTful practices
 * TDD
 * Ruby
@@ -63,7 +64,7 @@ Completing <span class="title-color">Bloccit</span> lead to many successful resu
 
 * What to generally expect when working or viewing a rails application
 * How to and where to properly ask programming questions
-* Productively work among a team or teammate
+* Productively pair-program among a team or teammate
 * Proactively networked among other "railers" (_eg_. joined RoR meetups in Seattle, WA)
 
 
@@ -71,6 +72,9 @@ Completing <span class="title-color">Bloccit</span> lead to many successful resu
 
 ## Conclusion
 
-Like learning any new thing, completing <span class="title-color">Bloccit</span> via <span class="bloc-color">Bloc.io</span> taught me vidal programming lessons.  Producing a basic Rails application is easy and fast!  I am now able to not only write code, but read others and apply theirs if needed.  I successfully can ask specific questions clearly and find answers to continue production in a timely manner.  With all the knowledge I acquired by finishing <span class="title-color">Bloccit</span>, I am now ready to learn more by creating others.
+Like learning any new thing, completing <span class="title-color">Bloccit</span> via <span class="bloc-color">Bloc.io</span> taught me vital programming lessons.  Producing a basic Rails application is easy and fast!  I am now able to not only write code, but read others and apply theirs if needed.  I successfully can ask specific questions clearly and find answers to continue production in a timely manner.  With all the knowledge I acquired by finishing <span class="title-color">Bloccit</span>, I am now ready to learn more by creating others.
 
-http://127.0.0.1:4000/dustinsportfolio/portfolio/blocipedia/ Next Project
+{:.center}
+[Back to Top](http://127.0.0.1:4000/dustinsportfolio/portfolio/bloccit/) ~
+[Home](http://127.0.0.1:4000/dustinsportfolio/) ~
+[Next Project](http://127.0.0.1:4000/dustinsportfolio/portfolio/blocipedia/)
